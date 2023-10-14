@@ -1,0 +1,4 @@
+sqlalchemy==1.4.49
+asyncpg==0.28.0
+fastapi==0.101.1
+pyjwt==2.8.0
